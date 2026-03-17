@@ -70,7 +70,7 @@ python -c "import tkinter; tkinter._test()"
 A small test window should appear. Once all dependencies are installed, run the solver with:
 
 ```bash
-python 24L-0717_asg2.py
+python code.py
 ```
 
 The script will print per-generation fitness stats to the terminal, save `fitness_plot.png` in the current directory, and open the chessboard GUI showing the best solution found.
